@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EDA | PK Thufail</title>
+    <link>https://pkthufail.github.io/tag/eda/</link>
+      <atom:link href="https://pkthufail.github.io/tag/eda/index.xml" rel="self" type="application/rss+xml" />
+    <description>EDA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Sep 2022 16:59:11 +0530</lastBuildDate>
+    <image>
+      <url>https://pkthufail.github.io/media/icon_hue18b2f3f3a49bdc655dd235ebd874f69_1809_512x512_fill_lanczos_center_3.png</url>
+      <title>EDA</title>
+      <link>https://pkthufail.github.io/tag/eda/</link>
+    </image>
+    
+    <item>
+      <title>Scraping Election Results from ECI Website Using R</title>
+      <link>https://pkthufail.github.io/project/election/</link>
+      <pubDate>Wed, 14 Sep 2022 16:59:11 +0530</pubDate>
+      <guid>https://pkthufail.github.io/project/election/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
